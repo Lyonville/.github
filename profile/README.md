@@ -1,3 +1,8 @@
+# Lyonville Organization
+The Lyonville website developed by students of The University of Melbourne. This will include [Git Standards](https://github.com/Lyonville#-git-standards) and [Coding Standards](https://github.com/Lyonville#-coding-standard) that will be followed throughout the entire project.
+<br><br><br>
+
+
 # 🔗 Git Standards
 ### Commits
 #### **Commit message**
@@ -25,7 +30,7 @@ merge    : Merging the branches
 #### **Scope (optional)**
 Scope should be a noun and it represents the section of the codebase.
 
-### Subject
+#### **Subject**
 * Use imperative, present tense (e.g. use “add” instead of “added” or “adds”)
 * Don’t capitalise the first letter in the subject
 * Don’t put a full stop (.) at the end
@@ -33,7 +38,7 @@ Scope should be a noun and it represents the section of the codebase.
 #### **Commit size**
 Importantly, developers should **keep the commit size SMALL**, so that rollback error detection can be easier.
 
-### Examples
+#### **Examples**
 ```
 feat(navigation): init navigation bar for the home page
 feat: create a navigation bar for the home page (WIP)
