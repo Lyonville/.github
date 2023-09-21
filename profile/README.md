@@ -1,3 +1,10 @@
+<a href="https://lyonville-server-akarh.ondigitalocean.app/">
+  <picture>
+    <img src="https://i.ibb.co/bPCDw4t/lyon-icon.png" height="130" alt="lyonville logo" />
+  </picture>
+</a>
+
+
 # Lyonville Organization
 The Lyonville website developed by students of The University of Melbourne. This will include [Git Standards](https://github.com/Lyonville#-git-standards) and [Coding Standards](https://github.com/Lyonville#-coding-standard) that will be followed throughout the entire project.
 <br><br><br>
