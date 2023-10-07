@@ -70,15 +70,15 @@ The following includes standards for languages used within the project, includin
 * **Avoid deep nesting**. Difficult to read
 
 ### Details
-* Indentation can be 2 or 4 spaces.
+* Indentation must be 2-space.
 * Global variables should be avoided unless necessary.
 * Module should contain meta such as {authors, creation, last-modification, summary-of-what-module-does}
 * `if/else/else/for/while` formatting:
     ```js
     if (condition) {
-        name = "John";
+      name = "John";
     } else {
-        name = "Doe";
+      name = "Doe";
     }
     ```
 * Files name with space should be separated with - instead. i.e. hello-world.py
